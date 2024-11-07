@@ -40,7 +40,7 @@ B. Navigate to the Project Directory:
   cd pizza-delivery-backend
 C. Install Dependencies:
   npm install
-D. Modify Environment Variables (Optional): Edit the .env file with your MongoDB URI and JWT secret:
+D. Modify Environment Variables: Edit the .env file with your MongoDB URI and JWT secret:
   MONGO_URI=mongodb://localhost:27017/pizzaApp   # Or use your MongoDB Atlas URI
   JWT_SECRET=your_jwt_secret_key_here            # Generate a secure key
 E. Start the Server:
